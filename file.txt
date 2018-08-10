@@ -1,1 +1,2 @@
 Why I can not git push all files included in my folders except some sepcific files.
+I have no ideas now but some day I can fix this.
