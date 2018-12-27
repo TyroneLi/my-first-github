@@ -1,6 +1,8 @@
 # my-first-github
-========================================
+
+=============================================
 It is my first usage of git and github.
+
 ----------------------------------------------
 1.git init:Use this command line to initialize a folder so that we can lock our file operations inside github.
 
